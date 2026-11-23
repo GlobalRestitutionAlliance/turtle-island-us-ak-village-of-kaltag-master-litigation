@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+VILLAGE+OF+KALTAG",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+VILLAGE+OF+KALTAG",
+  "title": "Federal Register - AK VILLAGE OF KALTAG",
+  "fetched_at": "2026-11-23T17:30:36.300835Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 217796,
+  "sha256": "114acb3f189866c3f3c6defd5c1f4992125dc673d87d2f624b1636d23eaec5f7",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
